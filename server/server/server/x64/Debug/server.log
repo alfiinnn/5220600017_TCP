@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\jaringan\jaringan\server\server\server\Source.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\jaringan\jaringan\server\server\server\Source.cpp(83,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\jaringan\jaringan\server\server\server\Source.cpp(90,23): warning C4018: '<': signed/unsigned mismatch
+D:\jaringan\jaringan\server\server\server\Source.cpp(95,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\jaringan\jaringan\server\server\server\Source.cpp(121,24): warning C4018: '<': signed/unsigned mismatch
+D:\jaringan\jaringan\server\server\server\Source.cpp(126,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  server.vcxproj -> D:\jaringan\jaringan\server\server\x64\Debug\server.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\jaringan\jaringan\server\client\client\client\main.cpp(27,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\jaringan\jaringan\server\client\client\client\main.cpp(86,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  client.vcxproj -> D:\jaringan\jaringan\server\client\client\x64\Debug\client.exe
